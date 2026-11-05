@@ -2,7 +2,7 @@
 
 Нативный Android-лаунчер для планшета: спокойный домашний экран, нижний док в стиле iPadOS и матовое стекло из [Aerial UI / Aerial Gaia](https://github.com/alexkrass76/aerial-gaia).
 
-**[Скачать актуальный APK](https://github.com/alexkrass76/aerial-tablet/releases/latest)** · [Подробная инструкция](README.txt)
+**[Скачать актуальный APK](https://github.com/alexkrass76/aerial-tablet/raw/refs/heads/main/apk/aerial-tablet-1.3.0.apk)** · [Подробная инструкция](README.txt)
 
 ![Домашний экран Aerial Tablet](docs/images/home.png)
 
@@ -20,7 +20,7 @@
 
 Требуется **Android 10 или новее**. Проверено на планшете U8 с Android 13 и экраном 1200×1920.
 
-1. Скачайте `aerial-tablet-1.3.0.apk` из [релиза v1.3.0](https://github.com/alexkrass76/aerial-tablet/releases/tag/v1.3.0).
+1. Скачайте [aerial-tablet-1.3.0.apk](apk/aerial-tablet-1.3.0.apk?raw=true) из каталога `apk/`. [SHA-256](apk/SHA256SUMS.txt) опубликована рядом с файлом.
 2. Установите APK и откройте Aerial Tablet.
 3. В пункте управления откройте «Оформление» → «Сделать домашним экраном».
 

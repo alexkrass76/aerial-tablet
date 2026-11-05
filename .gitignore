@@ -10,3 +10,6 @@ __pycache__/
 *.apk
 *.idsig
 *.log
+
+# Published, signed release binaries. Local build outputs remain ignored.
+!apk/*.apk
