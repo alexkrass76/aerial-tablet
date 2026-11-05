@@ -1,0 +1,12 @@
+build/
+signing/
+local.properties
+.local-state/
+.DS_Store
+__pycache__/
+*.pyc
+*.jks
+*.keystore
+*.apk
+*.idsig
+*.log
